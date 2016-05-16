@@ -1,13 +1,14 @@
 ---
-title: "My First Markdown"
-author: "Janna"
-date: "May 12, 2016"
+title: "My first Markdown"
+author: "Janna Michael"
+date: "May 16, 2016"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+This is my first markdown file.
 
 ## R Markdown
 
